@@ -7,7 +7,7 @@ En una organización pueden identificarse las siguientes partes:
 * **Tecnoestructura:** Constituido por personal que estandariza y mejora el trabajo de las otras partes. *Ejemplo: Los analistas de control de calidad en una fábrica se aseguran que los procesos de producción seguidos por los obreros sean los adecuados según las normas ISO.*
 * **Staff de apoyo:** Constituido por personal que realiza actividades que no son la actividad principal de la organización, pero hacen posible su realizacion. *Ejemplo: El personal de cocina de una multinacional le prepara el almuerzo a más de 100 empleados.*
 
-A nivel gráfico lo podemos visualizar de la siguiente manera:
+A nivel gráfico lo podemos visualizar de la siguiente manera:\
 ![partes de una organización según Mintzberg](https://upload.wikimedia.org/wikipedia/commons/8/81/Technostructure.svg)
 
 ## Fuentes
