@@ -8,7 +8,7 @@ En una organización pueden identificarse las siguientes partes:
 * **Staff de apoyo:** Constituido por personal que realiza actividades que no son la actividad principal de la organización, pero hacen posible su realizacion. *Ejemplo: El personal de cocina de una multinacional le prepara el almuerzo a más de 100 empleados.*
 
 A nivel gráfico lo podemos visualizar de la siguiente manera:
-![partes de una organización según Mintzberg](https://en.wikipedia.org/wiki/File:Technostructure.svg)
+![partes de una organización según Mintzberg](https://upload.wikimedia.org/wikipedia/commons/8/81/Technostructure.svg)
 
 ## Fuentes
 [Henry Mintzberg, Structure in 5's: Designing effective organizations](https://mintzberg.org/books/structure-5s-designing-effective-organizations)
