@@ -1,6 +1,6 @@
 # Configuraciones organizacionales
 
-Una configuración es la forma en que una organización se divide el trabajo y lo coordina a lo largo de su estructura. En la práctica, se puede ver más de una configuración presente en una misma organización, generando combinaciones que .
+Una configuración es la forma en que una organización se divide el trabajo y lo coordina a lo largo de su estructura. En la práctica, se puede ver más de una configuración presente en una misma organización, generando combinaciones que le dan características específicas y un funcionamiento particular.
 
 * **Estructura simple:** Empresas pequeñas con una fuerte presencia del dueño o directivo principal, que está en contacto directo con los empleados. *Ejemplo: Una PyME familiar de venta al por menor.*
 
