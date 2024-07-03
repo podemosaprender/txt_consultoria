@@ -19,5 +19,5 @@ Una configuración es la forma en que una organización se divide el trabajo y l
 * **Misionera:** La organización se estructura alrededor de valores y creencias compartidas, teniendo un objetivo colectivo que no es el lucro. *Ejemplo: ONGs y partidos políticos.*
 
 ## Fuentes
-[Henry Mintzberg, Structure in 5's: Designing effective organizations](https://mintzberg.org/books/structure-5s-designing-effective-organizations)
+[Henry Mintzberg, Structure in 5's: Designing effective organizations](https://mintzberg.org/books/structure-5s-designing-effective-organizations)\
 [Juan José Gilli, Diseño organizativo: estructura y procesos](https://books.google.com.pa/books?id=lXpfAAAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
