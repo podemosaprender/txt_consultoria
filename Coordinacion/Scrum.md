@@ -26,7 +26,7 @@ También se necesitan algunos elementos:
 
 ## ¿Cómo funciona?
 
-\![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:1680&format=webp)
+![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:1680&format=webp)
 
 ## Fuentes
 [Henrik Kniberg, Scrum and XP from the Trenches: How We Do Scrum (2007)](https://www.agileleanhouse.com/lib/lib/People/HenrikKniberg/ScrumAndXpFromTheTrenchesonline07-31.pdf)
