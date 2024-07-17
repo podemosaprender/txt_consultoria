@@ -1,32 +1,57 @@
 # Scrum
 
-Scrum es un marco de trabajo ágil, o sea es un **método para estructurar el trabajo**, que permite a los equipos construir productos entregables con una gran velocidad y calidad, re-organizando el flujo de trabajo de una forma iterativa y continua.
+Scrum es un **método para organizar el trabajo**, ayudando a construir productos con gran velocidad y calidad.
 
-El objetivo de usar Scrum es hacer más fácil el trabajo, para que se **alcancen los objetivos de negocio**, logrando en el camino:
-* Construir un producto rápido sin sacrificar calidad.
-* Cumplir con las entregas pactadas.
-* Generar valor para el usuario final del producto.
-* Mejorar el funcionamiento del equipo.
+## ¿Qué se gana?
+
+* Permite desarrollar productos entregables rápido.
+* Minimiza el tiempo perdido por desvios.
+* Mantiene un alto nivel de calidad sin perder velocidad.
+* Genera valor para el usuario final del producto.
+* Mejora el funcionamiento interno del equipo.
 
 ## ¿Cuándo usarlo?
 
-Para saber si se puede usar Scrum, hay que preguntarse:
-* ¿El equipo de trabajo es reducido, con no más de 15 personas?
-* ¿Los profesionales son responsables y están capacitados para decidir como realizar el trabajo?
-* ¿Los requerimientos del producto tienen cierto grado de incertidumbre o cambio?
-* ¿Tanto el equipo como el cliente están dispuestos a comunicarse durante el proyecto?
+Usar Scrum es una gran ventaja cuando:
+* El equipo de trabajo es de máximo 15 personas. ✔️
+* Los requerimientos del producto pueden sufrir modificaciones. ✔️
+* Existe predisposición a comunicarse entre el equipo y el cliente. ✔️
 
-Si las respuestas son afirmativas, entonces usar Scrum será una gran ventaja.
+## ¿Quienes participan?
 
-## ¿Qué se necesita?
-
-Se necesitan 3 roles:
-
-También se necesitan algunos elementos:
+Existen 3 roles:
+* Scrum master: Implementa el método Scrum y organiza el trabajo alrededor de él. 
+* Product owner: Representa al cliente y define los requerimientos del producto.
+* Miembros del equipo: Las personas que construyen el producto.
 
 ## ¿Cómo funciona?
 
-![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:1680&format=webp)
+Comenzamos así:
+* El Product Owner define los requerimientos del producto, marcando los que tienen más prioridad.
+* En base a las prioridades, el equipo discute y selecciona los requerimientos que van a formar parte de la próxima entrega.
+
+Luego se puede empezar el Sprint:
+* El Sprint es el periodo acordado para trabajar en la entrega. Pueden ser 2 semanas, por ejemplo.
+* El equipo avanza con el nuevo entregable, y al inicio de cada día de trabajo tiene una Daily, una reunión corta de 15 minutos donde se repasan avances, tareas del día y el objetivo a lograr.
+* Esto es clave porque ayuda a **detectar desvíos cuando surgen**, lo que le va a ahorrar tiempo, esfuerzo y dinero al cliente y al equipo.
+
+Y llegando al último día del Sprint:
+* Se realiza una demo del producto, para mostrar el resultado del trabajo.
+* Acá se genera mucho feedback útil, que sirve para mejorar y afinar las futuras entregas.
+
+El resultado de este proceso es que, **sólo en dos semanas el cliente tiene un producto listo para utilizar**.
+
+![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:623&format=webp)
+
+## ¿Cómo se sigue?
+
+Se repite el ciclo otra vez:
+* Se añaden requerimientos.
+* Se seleccionan los más prioritarios.
+* Se trabaja en ellos.
+* En dos semanas más, otro producto listo para usar-
+
+Cada entrega se acumula con las anteriores, hasta llegar a completar el producto en su totalidad.
 
 ## Fuentes
 [Henrik Kniberg, Scrum and XP from the Trenches: How We Do Scrum (2007)](https://www.agileleanhouse.com/lib/lib/People/HenrikKniberg/ScrumAndXpFromTheTrenchesonline07-31.pdf)
