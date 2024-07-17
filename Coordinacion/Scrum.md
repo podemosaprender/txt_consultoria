@@ -17,14 +17,16 @@ Usar Scrum es una gran ventaja cuando:
 * Los requerimientos del producto pueden sufrir modificaciones. ✔️
 * Existe predisposición a comunicarse entre el equipo y el cliente. ✔️
 
-## ¿Quienes participan?
+<!-- >## ¿Quienes participan?
 
 Existen 3 roles:
 * Scrum master: Implementa el método Scrum y organiza el trabajo alrededor de él. 
 * Product owner: Representa al cliente y define los requerimientos del producto.
-* Miembros del equipo: Las personas que construyen el producto.
+* Miembros del equipo: Las personas que construyen el producto. -->
 
 ## ¿Cómo funciona?
+
+![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:623&format=webp)
 
 Comenzamos así:
 * El Product Owner define los requerimientos del producto, marcando los que tienen más prioridad.
@@ -40,8 +42,6 @@ Y llegando al último día del Sprint:
 * Acá se genera mucho feedback útil, que sirve para mejorar y afinar las futuras entregas.
 
 El resultado de este proceso es que, **sólo en dos semanas el cliente tiene un producto listo para utilizar**.
-
-![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:623&format=webp)
 
 ## ¿Cómo se sigue?
 
