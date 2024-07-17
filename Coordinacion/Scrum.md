@@ -39,7 +39,7 @@ Luego se empieza el Sprint:
 
 *Ejemplo: Un día uno de los ingenieros comenta que no sabe que datos de los leads son los más importantes para mostrar, y el mismo cliente aclara que con nombre, apellido y celular alcanza para que los agentes hagan su trabajo. Así se evitan desvíos (mostrar datos que no sirven) y se afina la calidad de la entrega.*
 
-![Daily meeting](https://agilescrumgroup.nl/wp-content/uploads/daily-scrum-standup-meeting.png =300x200)
+![Daily meeting](https://agilescrumgroup.nl/wp-content/uploads/daily-scrum-standup-meeting.png)
 
 Y en el último día del Sprint:
 * Se hace la entrega del producto, acompañado de una demo donde se muestra el resultado del trabajo.
