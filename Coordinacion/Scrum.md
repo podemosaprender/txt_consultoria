@@ -29,7 +29,7 @@ Existen 3 roles:
 ![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:623&format=webp)
 
 Comenzamos así:
-* El Product Owner define los requerimientos del producto, marcando los que tienen más prioridad.
+* El cliente define los requerimientos del producto, marcando los que tienen más prioridad.
 * En base a las prioridades, el equipo discute y selecciona los requerimientos que van a formar parte de la próxima entrega.
 
 Luego se puede empezar el Sprint:
