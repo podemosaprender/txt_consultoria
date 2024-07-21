@@ -38,5 +38,5 @@ Se puede incorporar Kanban a un equipo que ya utiliza Scrum desde antes. Solamen
 En el caso contrario, un equipo que usa Kanban puede estar interesado en incorporar Scrum. En ese caso el tablero ya lo tienen, y lo que hay que agregar son los rituales Scrum: los Sprints, la planificación de Sprints, la Daily, la Demo, etc. Hay más información sobre esto en el artículo sobre [Scrum](Scrum.md).
 
 ## Fuentes
-[Henrik Kniberg, Kanban and Scrum: Making the most of both, 2010](https://www.agileleanhouse.com/lib/lib/People/HenrikKniberg/KanbanAndScrumInfoQVersionFINAL.pdf)
+[Henrik Kniberg, Kanban and Scrum: Making the most of both, 2010](https://www.agileleanhouse.com/lib/lib/People/HenrikKniberg/KanbanAndScrumInfoQVersionFINAL.pdf)\
 [Benjamin Coriat, Penser à l'envers, 1991](https://www.amazon.fr/Penser-lenvers-organisation-lentreprise-japonaise/dp/2267012464)
