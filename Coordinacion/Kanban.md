@@ -7,7 +7,7 @@ Kanban es un método que hace más fácil la gestión del trabajo en los equipos
 * Podemos monitorear el trabajo realizado y los avances que se logran.
 * Identificamos los cuellos de botella antes de que generen problemas.
 * Aseguramos que el trabajo no exceda la capacidad productiva, ni quede capacidad sin aprovechar.
-* Agilizamos el flujo de trabajo sin recurrir a metodologías más complejas como [Scrum](Scrum.md).
+* Agilizamos el flujo de trabajo sin recurrir a metodologías más complejas como [Scrum](https://o-o.fyi/usa/scrum/).
 
 ## ¿Cómo lo aplicamos?
 
@@ -35,7 +35,7 @@ Por último, **medimos el tiempo de las tareas**:
 
 Se puede incorporar Kanban a un equipo que ya utiliza Scrum desde antes. Solamente se debe tomar el tablero Scrum, agregarle un limite de tareas por columna y empezar a medir el tiempo.
 
-En el caso contrario, un equipo que usa Kanban puede estar interesado en incorporar Scrum. En ese caso el tablero ya lo tienen, y lo que hay que agregar son los rituales Scrum: los Sprints, la planificación de Sprints, la Daily, la Demo, etc. Hay más información sobre esto en el artículo sobre [Scrum](Scrum.md).
+En el caso contrario, un equipo que usa Kanban puede estar interesado en incorporar Scrum. En ese caso el tablero ya lo tienen, y lo que hay que agregar son los rituales Scrum: los Sprints, la planificación de Sprints, la Daily, la Demo, etc. Hay más información sobre esto en el artículo sobre [Scrum](https://o-o.fyi/usa/scrum/).
 
 ## Fuentes
 [Henrik Kniberg, Kanban and Scrum: Making the most of both, 2010](https://www.agileleanhouse.com/lib/lib/People/HenrikKniberg/KanbanAndScrumInfoQVersionFINAL.pdf)\
