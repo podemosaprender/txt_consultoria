@@ -13,7 +13,7 @@ Kanban es un método que hace más fácil la gestión del trabajo en los equipos
 
 ¡Solo hay que armar un tablero como el de la foto! Es muy fácil y se logra en tres pasos.
 
-<img alt="Kanban board" src="../assets/images/kanban-dashboard.jpg" width="300" height="150">
+<img alt="Kanban board" src="../assets/images/kanban-dashboard.jpg" width="630" height="300">
 
 Primero **visualizamos el flujo de trabajo**:
 * Dividimos el trabajo en tareas manejables.
