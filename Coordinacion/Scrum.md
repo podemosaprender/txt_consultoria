@@ -15,13 +15,6 @@ Scrum es un **método para organizar el trabajo**, ayuda a construir productos c
 * Los requerimientos del producto pueden sufrir modificaciones. ✔️
 * Existe predisposición a comunicarse entre el equipo y el cliente. ✔️
 
-<!-- >## ¿Quienes participan?
-
-Existen 3 roles:
-* Scrum master: Implementa el método Scrum y organiza el trabajo alrededor de él. 
-* Product owner: Representa al cliente y define los requerimientos del producto.
-* Miembros del equipo: Las personas que construyen el producto. -->
-
 ## ¿Cómo funciona?
 
 Comenzamos así:
@@ -30,7 +23,7 @@ Comenzamos así:
 
 *Ejemplo: Una compañía de ventas quiere un CRM para gestionar la relación con sus clientes. En primera instancia, se prioriza que cada agente tenga acceso a una pantalla donde pueda ver los datos de contacto de los leads. El equipo define las tareas a realizar para que se pueda tener un producto con esta funcionalidad en 2 semanas.*
 
-![Eventos de Scrum](https://assets.asana.biz/transform/80fe2d49-910b-4d42-bbab-d3e1bb26702a/inline-agile-scrum-1-2x?io=transform:fill,width:623&format=webp)
+<img alt="Scrum events" src="../assets/images/scrum-events.jpg" width="300" height="200">
 
 Luego se empieza el Sprint:
 * El Sprint es el periodo acordado para trabajar en la entrega. Pueden ser 2 semanas, por ejemplo.
@@ -39,7 +32,7 @@ Luego se empieza el Sprint:
 
 *Ejemplo: Un día uno de los ingenieros comenta que no sabe que datos de los leads son los más importantes para mostrar, y el mismo cliente aclara que con nombre, apellido y celular alcanza para que los agentes hagan su trabajo. Así se evitan desvíos (mostrar datos que no sirven) y se afina la calidad de la entrega.*
 
-![Daily meeting](https://agilescrumgroup.nl/wp-content/uploads/daily-scrum-standup-meeting.png)
+<img alt="Scrum daily" src="../assets/images/scrum-daily.jpg" width="300" height="200">
 
 Y en el último día del Sprint:
 * Se hace la entrega del producto, acompañado de una demo donde se muestra el resultado del trabajo.

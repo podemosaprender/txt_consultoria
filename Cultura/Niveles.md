@@ -14,6 +14,8 @@ O sea, la cultura:
 
 La cultura tiene niveles de mayor y menor dificultad de percepción.
 
+<img alt="Culture levels" src="../assets/images/culture-levels.jpg" width="300" height="300">
+
 * **Artefactos y comportamientos:** Entorno físico y social visible a simple vista. *Ejemplo: Cómo está organizada la oficina, la disposición de las mesas y sillas, palabras utilizadas en la comunicación entre pares, etc.*
 
 * **Valores y creencias:** Creencias compartidas sobre como deben hacerse las cosas y valores que se promueven, conformando la filosofía de la organización. No es visible a simple vista, pero pueden identificarse en las conversaciones que se dan entre las personas y en las normas de la organización. *Ejemplo: Ideas como la transparencia, la meritocracia, la igualdad de oportunidades, etc.*
