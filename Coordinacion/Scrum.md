@@ -23,7 +23,7 @@ Comenzamos así:
 
 *Ejemplo: Una compañía de ventas quiere un CRM para gestionar la relación con sus clientes. En primera instancia, se prioriza que cada agente tenga acceso a una pantalla donde pueda ver los datos de contacto de los leads. El equipo define las tareas a realizar para que se pueda tener un producto con esta funcionalidad en 2 semanas.*
 
-<img alt="Scrum events" src="../assets/images/scrum-events.jpg" width="600" height="400">
+<img alt="Scrum events" src="../assets/images/scrum-events.jpg" width="512" height="400">
 
 Luego se empieza el Sprint:
 * El Sprint es el periodo acordado para trabajar en la entrega. Pueden ser 2 semanas, por ejemplo.
